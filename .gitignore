@@ -1,0 +1,11 @@
+# This repository is a documentation-only showcase.
+.env
+.env.*
+node_modules/
+data/
+backups/
+*.sqlite
+*.sqlite-*
+*.key
+*.pem
+*.log
